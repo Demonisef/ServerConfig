@@ -1,23 +1,23 @@
 xp:
-  price: 1
+  price: 18
   add-total-to-price: true
-  add-total-to-price-multiplier: 1
+  add-total-to-price-multiplier: 2
 skills:
   strength:
     increment: 8
-    max-level: 8
+    max-level: 999999
   criticals:
     increment: 5
-    max-level: 10
+    max-level: 999999
   resistance:
     increment: 8
-    max-level: 8
+    max-level: 999999
   archery:
     increment: 5
-    max-level: 10
+    max-level: 999999
   health:
     increment: 2
-    max-level: 6
+    max-level: 999999
 gui:
   title: '&9Your skills'
   reset-enabled: true
